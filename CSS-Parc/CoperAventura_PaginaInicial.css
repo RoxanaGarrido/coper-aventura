@@ -1,0 +1,92 @@
+
+/* 
+    Created on : 11-dic-2020, 0:28:57
+    Author     : Roxana Garrido
+*/
+
+body {
+    background-image: url("../Imatges-parc/fondo_pag.jpg");
+    background-repeat: no-repeat;    
+    background-size: 3000px;
+    position: relative;
+}
+
+header {
+    display: inline;
+    text-align: center;
+    margin: 10px;
+} 
+header img{
+    width: 220px;
+    heigth: 220px;
+    vertical-align: middle;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 25px 100px;
+}
+
+nav ul li {
+    display: inline;
+}
+.titol{
+     font-variant:small-caps;
+     font-size: 6em;
+     color: black;
+}
+.linknav {
+    font-size: 2em;
+    background-color: #00cccc;   
+    text-decoration: none;
+    font-family: Lucida, sans-serif;
+    text-align: center;
+    padding: 12px 50px;   
+}
+.linknav:hover{
+    background-color: white;
+}
+
+section {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+section caption {
+    font-size: 3em;
+    text-align: center;
+    font-family: Lucida, sans-serif;
+    font-variant: small-caps;
+}
+.tablasection {
+    border-spacing: 20px;
+    text-align: justify;
+    color: white;
+}
+
+.sectionimg {
+    position: left;
+    width: 550px;
+    heigth: 250px;
+}
+
+section p {
+    font-size: 180%;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.9);
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
